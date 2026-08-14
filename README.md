@@ -48,7 +48,7 @@ Los errores encontrados durante la suite de regresión fueron clasificados segú
 
 Puedes consultar la matriz completa de ejecución con todos los casos de prueba y reportes de errores detallados en el siguiente enlace:
 
-[![Ver Matriz de Pruebas en Google Sheets](https://img.shields.io/badge/Google%20Sheets-Ver%20Matriz%20de%20Pruebas-spreadsheet?style=for-the-badge&logo=google-sheets&logoColor=white&color=34A853)](https://docs.google.com/spreadsheets/d/1C2N4ynEAPWSbUZmAPYM2j1pLX1Gz_Obo/edit?usp=sharing)
+[![Ver Matriz de Pruebas en Google Sheets](https://img.shields.io/badge/Google%20Sheets-Ver%20Matriz%20de%20Pruebas-spreadsheet?style=for-the-badge&logo=google-sheets&logoColor=white&color=34A853)](https://docs.google.com/spreadsheets/d/1xOQ2rioqhCgy1zWhS8vrieoEQ4vUlsPvkxR5kCH7e5Y/edit?usp=sharing)
 
 ---
 
