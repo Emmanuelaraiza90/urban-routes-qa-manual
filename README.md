@@ -58,3 +58,13 @@ Puedes consultar la matriz completa de ejecución con todos los casos de prueba 
 *QA Automation Engineer | Industrial Engineer*  
 * [LinkedIn](https://linkedin.com/in/emmanuel-araiza-engineer)
 * [GitHub](https://github.com/Emmanuelaraiza90)
+
+---
+
+## 📸 Evidencia Visual de Ejecución
+
+![Urban Routes App](01-urban-routes-app.png)
+*Interfaz principal de la plataforma web Urban Routes durante la ejecución del plan de pruebas.*
+
+![Evidencia de Error](02-bug-evidence.png)
+*Evidencia gráfica de desviación identificada durante la suite de regresión.*
